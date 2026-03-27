@@ -6,6 +6,7 @@
 
 # Keep the generated portal page
 !portal.html
+!index.html
 
 # Keep local law HTML files used by the portal
 !laws/

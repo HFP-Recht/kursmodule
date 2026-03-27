@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -15,7 +15,30 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  sync-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync portal.html to index.html
+        run: cp portal.html index.html
+
+      - name: Commit index.html if changed
+        if: github.actor != 'github-actions[bot]'
+        run: |
+          if git diff --quiet -- index.html; then
+            echo "index.html already up to date."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html
+          git commit -m "chore: sync index.html from portal.html"
+          git push
+
   build:
+    needs: sync-index
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -24,7 +47,7 @@ jobs:
       - name: Prepare static site
         run: |
           mkdir -p _site
-          cp portal.html _site/index.html
+          cp index.html _site/index.html
           cp -r laws _site/laws
 
       - name: Upload Pages artifact
