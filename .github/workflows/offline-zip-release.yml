@@ -20,6 +20,7 @@ jobs:
           mkdir -p dist/offline
           cp index.html dist/offline/index.html
           cp -r laws dist/offline/laws
+          cp -r module_mindmaps dist/offline/module_mindmaps
           cd dist
           zip -r hfp-offline.zip offline
 
