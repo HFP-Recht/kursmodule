@@ -26,6 +26,7 @@ jobs:
           mkdir -p _site
           cp index.html _site/index.html
           cp -r laws _site/laws
+          cp -r module_mindmaps _site/module_mindmaps
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

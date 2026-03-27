@@ -11,6 +11,10 @@
 !laws/
 !laws/**
 
+# Keep generated module mindmap pages
+!module_mindmaps/
+!module_mindmaps/**
+
 # Keep GitHub Actions workflows (Pages + offline ZIP automation)
 !.github/
 !.github/workflows/
