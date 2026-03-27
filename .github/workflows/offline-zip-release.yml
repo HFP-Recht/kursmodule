@@ -18,7 +18,7 @@ jobs:
       - name: Build offline package
         run: |
           mkdir -p dist/offline
-          cp portal.html dist/offline/index.html
+          cp index.html dist/offline/index.html
           cp -r laws dist/offline/laws
           cd dist
           zip -r hfp-offline.zip offline
