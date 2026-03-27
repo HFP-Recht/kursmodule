@@ -15,6 +15,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Regenerate portal and glossary artifacts
+        run: |
+          python glossar/generate_from_md.py
+          python build_portal.py
+
+      - name: Verify required generated assets
+        run: |
+          test -f index.html
+          test -f glossar/keywords.json
+
       - name: Build offline package
         run: |
           mkdir -p dist/offline
