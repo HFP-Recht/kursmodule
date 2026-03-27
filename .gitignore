@@ -5,7 +5,6 @@
 !.gitignore
 
 # Keep the generated portal page
-!portal.html
 !index.html
 
 # Keep local law HTML files used by the portal
@@ -16,3 +15,7 @@
 !.github/
 !.github/workflows/
 !.github/workflows/**
+
+# Keep documentation
+!docs/
+!docs/**
