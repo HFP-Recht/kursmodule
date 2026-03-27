@@ -21,6 +21,7 @@ jobs:
           cp index.html dist/offline/index.html
           cp -r laws dist/offline/laws
           cp -r module_mindmaps dist/offline/module_mindmaps
+          cp -r glossar dist/offline/glossar
           cd dist
           zip -r hfp-offline.zip offline
 

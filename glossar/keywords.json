@@ -1,0 +1,2044 @@
+{
+  "terms": [
+    {
+      "term": "Absichtlich",
+      "page": "absichtlich.html",
+      "short": "Handelnd, weil man etwas, z.B. einen Schaden, will."
+    },
+    {
+      "term": "Absolutes Recht",
+      "page": "absolutes-recht.html",
+      "short": "Recht, das gegenüber jedermann wirkt, z.B. das Eigentum und die Immaterialgüterrechte."
+    },
+    {
+      "term": "Absorptionsfusion",
+      "page": "absorptionsfusion.html",
+      "short": "Umstrukturierung, bei der die eine Gesellschaft die andere übernimmt (absorbiert)."
+    },
+    {
+      "term": "Abspaltung",
+      "page": "abspaltung.html",
+      "short": "Umstrukturierung, bei der eine Gesellschaft Teile ihres Vermögens auf eine oder mehrere andere Gesellschaften überträgt, selbst aber weiterhin bestehen bleibt."
+    },
+    {
+      "term": "Abtretung",
+      "page": "abtretung.html",
+      "short": "Zession; Übertragung einer Forderung vom bisherigen Gläubiger an einen neuen Gläubiger."
+    },
+    {
+      "term": "Abtretungsurkunde",
+      "page": "abtretungsurkunde.html",
+      "short": "Schriftlicher Vertrag zur Übertragung einer Forderung an einen neuen Gläubiger."
+    },
+    {
+      "term": "Adoption",
+      "page": "adoption.html",
+      "short": "Annahme eines Kindes; damit entsteht ein Kindesverhältnis zu den Adoptiveltern."
+    },
+    {
+      "term": "Adoptionsgeheimnis",
+      "page": "adoptionsgeheimnis.html",
+      "short": "Das Verbot, den leiblichen Eltern die Identität der Adoptiveltern bekanntzugeben."
+    },
+    {
+      "term": "Adäquater Kausalzusammenhang",
+      "page": "adaquater-kausalzusammenhang.html",
+      "short": "Angemessener Ursachenzusammenhang zwischen einer Handlung und einem Schaden."
+    },
+    {
+      "term": "Aktie",
+      "page": "aktie.html",
+      "short": "Anteil am Aktienkapital einer Aktiengesellschaft bzw. Wertpapier, mit der die Rechte des Aktionärs verknüpft sind."
+    },
+    {
+      "term": "Aktiengesellschaft (AG)",
+      "page": "aktiengesellschaft-ag.html",
+      "short": "Kapitalgesellschaft, deren Kapital in Teilsummen (Aktien) zerlegt ist und für deren Verbindlichkeiten ausschliesslich das Gesellschaftsvermögen haftet."
+    },
+    {
+      "term": "Aktionär",
+      "page": "aktionar.html",
+      "short": "Gesellschafter einer Aktiengesellschaft; Inhaber einer Aktie."
+    },
+    {
+      "term": "Aktionärbindungsvertrag",
+      "page": "aktionarbindungsvertrag.html",
+      "short": "Vereinbarung zwischen Aktionären, in der sie ihr gegenseitigen Rechte und Pflichten in Zusammenhang mit ihrer Aktionärstellung regeln."
+    },
+    {
+      "term": "Aktive Bestechung",
+      "page": "aktive-bestechung.html",
+      "short": "Eine Person bietet jemandem Geld an, um als Gegenleistung einen nicht angemessenen Vorteil zu erfahren."
+    },
+    {
+      "term": "Alleineigentum",
+      "page": "alleineigentum.html",
+      "short": "Eigentum, das einer Person allein gehört."
+    },
+    {
+      "term": "Ambulante Behandlung",
+      "page": "ambulante-behandlung.html",
+      "short": "Massnahme, bei der sich ein Täter einer nicht stationären Behandlung (z.B. Therapiegespräche) unterziehen muss."
+    },
+    {
+      "term": "Annahme",
+      "page": "annahme.html",
+      "short": "Einverständnis zu einem Antrag; Willensäusserung, mit der ein Vertrag zustande kommt."
+    },
+    {
+      "term": "Antrag",
+      "page": "antrag.html",
+      "short": "Offerte, Angebot; erste Willensäusserung zum Abschluss eines Vertrags."
+    },
+    {
+      "term": "Antragsdelikt",
+      "page": "antragsdelikt.html",
+      "short": "Straftat, die nur auf Begehren des Opfers verfolgt wird."
+    },
+    {
+      "term": "Arbeitgeber",
+      "page": "arbeitgeber.html",
+      "short": "Vertragspartei, die sich vom Arbeitnehmer eine Arbeitsleistung erbringen lässt und diesem dafür einen Lohn bezahlt."
+    },
+    {
+      "term": "Arbeitnehmer",
+      "page": "arbeitnehmer.html",
+      "short": "Vertragspartei, die für den Arbeitgeber eine Arbeit leistet."
+    },
+    {
+      "term": "Arbeitsvertrag",
+      "page": "arbeitsvertrag.html",
+      "short": "Vertrag über die Leistung von Arbeit, entweder als Einzelarbeitsvertrag (EAV), als Gesamtarbeitsvertrag (GAV) oder als Normalarbeitsvertrag (NAV)."
+    },
+    {
+      "term": "Arrest",
+      "page": "arrest.html",
+      "short": "Die vorsorgliche Beschlagnahmung von Vermögensgegenständen eines Schuldners."
+    },
+    {
+      "term": "Aufhebungsvertrag",
+      "page": "aufhebungsvertrag.html",
+      "short": "Vereinbarung, eine oder mehrere Obligationen aufzuheben."
+    },
+    {
+      "term": "Aufsicht",
+      "page": "aufsicht.html",
+      "short": "Schutzmassnahme des Jugendstrafrechts, bei der die Eltern des Täters unter behördlicher Aufsicht eine geeignete Betreuung oder Behandlung sicherstellen."
+    },
+    {
+      "term": "Aufspaltung",
+      "page": "aufspaltung.html",
+      "short": "Umstrukturierung, bei der eine Gesellschaft ihr ganzes Vermögen auf mehrere andere Gesellschaften überträgt und selbst aufgelöst wird."
+    },
+    {
+      "term": "Auftrag",
+      "page": "auftrag.html",
+      "short": "Vertrag zur Erbringung einer Dienstleistung oder zur Besorgung eines Geschäfts."
+    },
+    {
+      "term": "Auftraggeber",
+      "page": "auftraggeber.html",
+      "short": "Vertragspartei, die sich vom Beauftragten eine Dienstleistung erbringen oder ein Geschäft besorgen lässt und dafür eine Vergütung (Honorar) zahlt."
+    },
+    {
+      "term": "Aufwandsteuer",
+      "page": "aufwandsteuer.html",
+      "short": "Besitzsteuer; Steuer, die auf den Besitz eines Objekts erhoben wird, z.B. Hundesteuer."
+    },
+    {
+      "term": "Auskunftsperson",
+      "page": "auskunftsperson.html",
+      "short": "Person, bei der nicht klar ist, ob sie beschuldigte Person oder Zeugin ist."
+    },
+    {
+      "term": "Ausschliessliche Lizenz",
+      "page": "ausschliessliche-lizenz.html",
+      "short": "Lizenzform Der Lizenzgeber darf dasselbe Nutzungsrecht niemandem anders einräumen."
+    },
+    {
+      "term": "Aussergerichtlicher Nachlassvertrag",
+      "page": "aussergerichtlicher-nachlassvertrag.html",
+      "short": "Auf rein privater Basis geschlossene Vereinbarung zwischen dem Schuldner und all seinen Gläubigern zur Schulden sanierung."
+    },
+    {
+      "term": "Baurecht",
+      "page": "baurecht.html",
+      "short": "Beschränktes dingliches Recht, auf einem (fremden) Grundstück ein Bauwerk zu errichten und stehen zu lassen."
+    },
+    {
+      "term": "Beauftragter",
+      "page": "beauftragter.html",
+      "short": "Vertragspartei, die für den Auftraggeber eine Dienstleistung erbringt oder ein Geschäft besorgt."
+    },
+    {
+      "term": "Bedingte Strafe",
+      "page": "bedingte-strafe.html",
+      "short": "Strafe, die vorerst nicht vollstreckt wird; dem Täter wird eine Probezeit eingeräumt, in der er sich bewähren kann."
+    },
+    {
+      "term": "Begleitbeistandschaft",
+      "page": "begleitbeistandschaft.html",
+      "short": "Der Beistand begleitet und unterstützt die hilfsbedürftige Person, ihre Handlungsfähigkeit wird aber nicht eingeschränkt."
+    },
+    {
+      "term": "Beistandschaft",
+      "page": "beistandschaft.html",
+      "short": "Behördliche Massnahme zum Schutz einer volljährigen Person, die ihre Angelegenheiten nur teilweise oder gar nicht besorgen kann."
+    },
+    {
+      "term": "Beschränktes dingliches Recht",
+      "page": "beschranktes-dingliches-recht.html",
+      "short": "(Herrschafts-)Recht an einer Sache in bestimmter, beschränkter Hinsicht, z.B. Wegrecht."
+    },
+    {
+      "term": "Besitz",
+      "page": "besitz.html",
+      "short": "Tatsächliche Gewalt über eine Sache."
+    },
+    {
+      "term": "Besitzsteuer",
+      "page": "besitzsteuer.html",
+      "short": "Aufwandsteuer; Steuer, die auf den Besitz eines Objekts erhoben wird, z.B. Motorfahrzeugsteuer."
+    },
+    {
+      "term": "Betreibungsauskunft",
+      "page": "betreibungsauskunft.html",
+      "short": "Einsicht in das Betreibungsregister."
+    },
+    {
+      "term": "Betreibungsbegehren",
+      "page": "betreibungsbegehren.html",
+      "short": "Gesuch des Gläubigers zur Einleitung eines Zwangsvollstreckungsverfahrens."
+    },
+    {
+      "term": "Betreibungsregister",
+      "page": "betreibungsregister.html",
+      "short": "Amtliches Verzeichnis der laufenden und abgeschlossenen Betreibungen."
+    },
+    {
+      "term": "Borger",
+      "page": "borger.html",
+      "short": "Darlehensnehmer; Vertragspartei, die sich vom Darleiher Geld oder andere vertretbare Sachen als Eigentum übertragen lässt und diesem Geld oder Sachen der gleichen Art zurückerstatten muss."
+    },
+    {
+      "term": "Bringschuld",
+      "page": "bringschuld.html",
+      "short": "Verbindlichkeit, die am Wohnsitz des Gläubigers zu erfüllen ist."
+    },
+    {
+      "term": "Bruttolohn",
+      "page": "bruttolohn.html",
+      "short": "Vereinbarter Lohn vor Abzug der Sozialversicherungsbeiträge."
+    },
+    {
+      "term": "Budget",
+      "page": "budget.html",
+      "short": "Eine Gegenüberstellung der geplanten Ausgaben und Einnahmen."
+    },
+    {
+      "term": "Bundesgericht",
+      "page": "bundesgericht.html",
+      "short": "Oberstes Gericht der Schweiz mit Sitz in Lausanne und Luzern."
+    },
+    {
+      "term": "Busse",
+      "page": "busse.html",
+      "short": "Vermögensstrafe (fixe Geldsumme) bei Übertretungen."
+    },
+    {
+      "term": "Bösgläubig",
+      "page": "bosglaubig.html",
+      "short": "Wenn jemand einen Rechtsmangel kennt oder ihn bei genügender Aufmerksamkeit kennen könnte."
+    },
+    {
+      "term": "Bürgschaft",
+      "page": "burgschaft.html",
+      "short": "Verpflichtung eines Dritten (des Bürges), für die Erfüllung einer Verbindlichkeit einzustehen."
+    },
+    {
+      "term": "Darlehen",
+      "page": "darlehen.html",
+      "short": "Übereignung von Geld oder anderen vertretbaren Sachen gegen die Verpflichtung, die Geldsumme bzw. Sachen der gleichen Art zurückzuerstatten."
+    },
+    {
+      "term": "Darleiher",
+      "page": "darleiher.html",
+      "short": "Darlehensgeber; Vertragspartei, die dem Borger Geld oder eine andere vertretbare Sache als Eigentum überträgt und Anspruch auf Rückerstattung von Geld oder Sachen der gleichen Art hat."
+    },
+    {
+      "term": "Deklaratorisch",
+      "page": "deklaratorisch.html",
+      "short": "Ein Recht feststellend bzw. bestätigend; die Rechtswirkung tritt also auch ohne diesen Rechtsakt ein."
+    },
+    {
+      "term": "Deliktsfähigkeit",
+      "page": "deliktsfahigkeit.html",
+      "short": "Aspekt der Handlungsfähigkeit, der sich mit der Frage befasst, unter welchen Voraussetzungen jemand für eine unerlaubte Handlung haftet."
+    },
+    {
+      "term": "Dienstbarkeit",
+      "page": "dienstbarkeit.html",
+      "short": "Das Recht, eine Sache in bestimmter Hinsicht zu gebrauchen und zu nutzen, z.B. Wohnrecht."
+    },
+    {
+      "term": "Dingliches Recht",
+      "page": "dingliches-recht.html",
+      "short": "Absolutes Recht an einer Sache."
+    },
+    {
+      "term": "Direkte Steuer",
+      "page": "direkte-steuer.html",
+      "short": "Steuer, welche die wirtschaftliche Leistungsfähigkeit des Steuerpflichtigen berücksichtigt."
+    },
+    {
+      "term": "Dispositive Vorschrift",
+      "page": "dispositive-vorschrift.html",
+      "short": "Rechtliche Bestimmung, von der mit einer Vereinbarung abgewichen werden kann."
+    },
+    {
+      "term": "Distanzkauf",
+      "page": "distanzkauf.html",
+      "short": "Kauf, bei dem sich Käufer und Verkäufer nicht am selben Ort befinden."
+    },
+    {
+      "term": "Dividende",
+      "page": "dividende.html",
+      "short": "Anteil am Gewinn einer Aktiengesellschaft."
+    },
+    {
+      "term": "Eigentum",
+      "page": "eigentum.html",
+      "short": "Umfassendes (Herrschafts-)Recht an einer Sache."
+    },
+    {
+      "term": "Eigentumsvorbehalt",
+      "page": "eigentumsvorbehalt.html",
+      "short": "Aufschub des Eigentumsübergangs beim Verkauf einer beweglichen Sache, bis der Kaufpreis vollständig bezahlt ist."
+    },
+    {
+      "term": "Eigentumsvorbehaltsregister",
+      "page": "eigentumsvorbehaltsregister.html",
+      "short": "Behördliches Verzeichnis der Eigentumsvorbehalte."
+    },
+    {
+      "term": "Einfache Gesellschaft",
+      "page": "einfache-gesellschaft.html",
+      "short": "Gesellschaft, die nicht die besonderen Voraussetzungen einer anderen Gesellschaftsform erfüllt."
+    },
+    {
+      "term": "Einfache Schriftlichkeit",
+      "page": "einfache-schriftlichkeit.html",
+      "short": "Schriftlich, also handschriftlich oder gedruckt, und mit eigenhändiger Unterschrift."
+    },
+    {
+      "term": "Einfache Steuer",
+      "page": "einfache-steuer.html",
+      "short": "Die Berechnungsgrundlage einer Steuer (z.B. das Einkommen) multipliziert mit dem Steuersatz."
+    },
+    {
+      "term": "Einfacher Schuldschein",
+      "page": "einfacher-schuldschein.html",
+      "short": "Urkunde, die das Bestehen einer Schuld schriftlich festhält."
+    },
+    {
+      "term": "Eingeschränkte Revision",
+      "page": "eingeschrankte-revision.html",
+      "short": "Summarische Prüfung der Jahresrechnung durch die Revisionsstelle."
+    },
+    {
+      "term": "Einkommenssteuer Steuer auf Löhne, auf Einkünfte aus selbstständiger Erwerbstätigkeit, auf Vermögenserträge und auf Renten natürlicher Personen.",
+      "page": "einkommenssteuer-steuer-auf-lohne-auf-einkunfte-aus-selbststandiger-erwerbstatigkeit-auf-vermogensertrage-und-auf-renten-naturlicher-personen.html",
+      "short": ""
+    },
+    {
+      "term": "Einvernehmliche private Schuldenbereinigung",
+      "page": "einvernehmliche-private-schuldenbereinigung.html",
+      "short": "Mit Unterstützung des Gerichts entstandener Vergleich zwischen dem Schuldner und den Gläubigern zur Schuldensanierung."
+    },
+    {
+      "term": "Einzelarbeitsvertrag",
+      "page": "einzelarbeitsvertrag.html",
+      "short": "Vertrag, mit dem sich ein Arbeitnehmer verpflichtet, einem Arbeitgeber seine Arbeitsleistung zur Verfügung zu stellen, und dafür vom Arbeitgeber einen Lohn erhält."
+    },
+    {
+      "term": "Einzelunternehmen",
+      "page": "einzelunternehmen.html",
+      "short": "Rechtsform eines Unternehmens, bei dem ein alleiniger Inhaber ein Geschäft betreibt und unbeschränkt mit seinem ganzen Vermögen haftet."
+    },
+    {
+      "term": "Entleiher",
+      "page": "entleiher.html",
+      "short": "Vertragspartei, die vom Verleiher eine Sache unentgeltlich zum Gebrauch erhält."
+    },
+    {
+      "term": "Erfolg",
+      "page": "erfolg.html",
+      "short": "Bestimmtes Arbeitsergebnis, das der Unternehmer dem Besteller bei einem Werkvertrag schuldet."
+    },
+    {
+      "term": "Erfüllungsinteresse",
+      "page": "erfullungsinteresse.html",
+      "short": "Positives Interesse des Gläubigers; der Gläubiger möchte so gestellt werden, als wäre der Vertrag richtig erfüllt worden."
+    },
+    {
+      "term": "Erfüllungsmodalitäten",
+      "page": "erfullungsmodalitaten.html",
+      "short": "Details zur Art und Weise der Erfüllung einer Obligation, z.B. wo und wann eine Leistung erbracht werden muss."
+    },
+    {
+      "term": "Erklärungsirrtum",
+      "page": "erklarungsirrtum.html",
+      "short": "Irrtum beim Vertragsabschluss über die Art des Vertrags, über die Sache oder Person oder über den Umfang der Leistung bzw. Gegenleistung."
+    },
+    {
+      "term": "Ersatz Lieferung",
+      "page": "ersatz-lieferung.html",
+      "short": "einwandfreier Ware anstelle der mangelhaften."
+    },
+    {
+      "term": "Exekutive Ausführende Behörde. Sie vollzieht das Recht, z.B. auf Bundesebene der Bundesrat.",
+      "page": "exekutive-ausfuhrende-behorde-sie-vollzieht-das-recht-z-b-auf-bundesebene-der-bundesrat.html",
+      "short": ""
+    },
+    {
+      "term": "Fahrlässig",
+      "page": "fahrlassig.html",
+      "short": "Handelnd, ohne die erforderliche Sorgfalt zu beachten."
+    },
+    {
+      "term": "Fahrnis Eigentum",
+      "page": "fahrnis-eigentum.html",
+      "short": "Umfassendes (Herrschafts-)Recht an einer beweglichen Sache."
+    },
+    {
+      "term": "Fahrniskauf",
+      "page": "fahrniskauf.html",
+      "short": "Der Kauf einer beweglichen Sache."
+    },
+    {
+      "term": "Fahrnispfand",
+      "page": "fahrnispfand.html",
+      "short": "Übergabe einer beweglichen Sache zur Sicherung der Vertragserfüllung."
+    },
+    {
+      "term": "Fakultatives Referendum",
+      "page": "fakultatives-referendum.html",
+      "short": "Volksabstimmung über ein Bundesgesetz, die auf Verlangen von 50 000 Bürgerinnen und Bürgern oder acht Kantonen durchgeführt wird."
+    },
+    {
+      "term": "Firma",
+      "page": "firma.html",
+      "short": "Geschäftsname eines Unternehmens."
+    },
+    {
+      "term": "Firmenausschliesslichkeit",
+      "page": "firmenausschliesslichkeit.html",
+      "short": "Prinzip, wonach ein Geschäftsname nur von einem einzigen Unternehmen gebraucht werden darf."
+    },
+    {
+      "term": "Firmenreglement",
+      "page": "firmenreglement.html",
+      "short": "Allgemeine Bestimmungen eines Unternehmens, die für die Arbeitsverhältnisse all seiner Arbeitnehmenden gelten."
+    },
+    {
+      "term": "Firmenwahrheit",
+      "page": "firmenwahrheit.html",
+      "short": "Prinzip, wonach der Name eines Unternehmens der Wahrheit entsprechen muss."
+    },
+    {
+      "term": "Fiskalzweck",
+      "page": "fiskalzweck.html",
+      "short": "Ziel (einer Steuer), die Staatsausgaben zu finanzieren."
+    },
+    {
+      "term": "Fixgeschäft",
+      "page": "fixgeschaft.html",
+      "short": "Geschäft, bei dem die Leistung zu oder bis zu einer ganz bestimmten Zeit erbracht werden muss."
+    },
+    {
+      "term": "Forderung",
+      "page": "forderung.html",
+      "short": "Recht auf eine Leistung."
+    },
+    {
+      "term": "Forderungspapier",
+      "page": "forderungspapier.html",
+      "short": "Wertpapier, durch das ein Berechtigter das Recht erlangt, eine Geldzahlung zu fordern."
+    },
+    {
+      "term": "Fortsetzungsbegehren",
+      "page": "fortsetzungsbegehren.html",
+      "short": "Gesuch des Gläubigers, die Betreibung fortzusetzen."
+    },
+    {
+      "term": "Fusion",
+      "page": "fusion.html",
+      "short": "Vereinigung bzw. Zusammenschluss zweier Gesellschaften."
+    },
+    {
+      "term": "Föderalismus",
+      "page": "foderalismus.html",
+      "short": "Staatsaufbau bzw. politisches Gestaltungsprinzip, bei dem die staatliche Macht auf mehrere Ebenen bzw. Gliedstaaten aufgeteilt ist."
+    },
+    {
+      "term": "Gattungskauf",
+      "page": "gattungskauf.html",
+      "short": "Der Kauf eines Gegenstands, der nur der Gattung nach, also nach Art und Zahl, bestimmt ist."
+    },
+    {
+      "term": "Gattungsschuld",
+      "page": "gattungsschuld.html",
+      "short": "Schuld, die eine Sache betrifft, die nur der Gattung nach, also nach Art und Zahl, bestimmt ist."
+    },
+    {
+      "term": "Gebietskartell",
+      "page": "gebietskartell.html",
+      "short": "Kartell, bei dem die beteiligten Unternehmen untereinander vereinbaren, sich in gewissen Gebieten nicht zu konkurrenzieren."
+    },
+    {
+      "term": "Gebühr",
+      "page": "gebuhr.html",
+      "short": "Kausalabgabe; Entgelt für eine staatliche Leistung, z."
+    },
+    {
+      "term": "Gefährdungshaftung",
+      "page": "gefahrdungshaftung.html",
+      "short": "Haftung für eine besondere Gefahr, die mit einer Vorrichtung, Tätigkeit oder einem Zustand verbunden ist, z."
+    },
+    {
+      "term": "Geistiges Eigentum",
+      "page": "geistiges-eigentum.html",
+      "short": "Geistige Schöpfung; immaterielles, d."
+    },
+    {
+      "term": "Geldstrafe",
+      "page": "geldstrafe.html",
+      "short": "Vermögensstrafe, bemessen nach dem Verschulden des Täters und dessen persönlichen und wirtschaftlichen Verhältnissen."
+    },
+    {
+      "term": "Gemeinnützige Arbeit",
+      "page": "gemeinnutzige-arbeit.html",
+      "short": "Strafe, bei der ein Täter unentgeltlich Arbeit für das Gemeinwohl leisten muss."
+    },
+    {
+      "term": "Gemeinschaftliches Eigentum",
+      "page": "gemeinschaftliches-eigentum.html",
+      "short": "Eigentum, das mehreren Personen zusammen gehört."
+    },
+    {
+      "term": "Generalexekution",
+      "page": "generalexekution.html",
+      "short": "Gesamtvollstreckung; Verwertung sämtlicher Vermögenswerte des Schuldners zur Befriedigung sämtlicher Gläubiger."
+    },
+    {
+      "term": "Generalversammlung (GV)",
+      "page": "generalversammlung-gv.html",
+      "short": "Das oberste Organ von Aktiengesellschaften und Genossenschaften; Zusammenkunft der Aktionäre bzw. der Genossenschafter."
+    },
+    {
+      "term": "Genossenschaft Rechtsform",
+      "page": "genossenschaft-rechtsform.html",
+      "short": "Personenbezogene Körperschaft mit dem Zweck, die Interessen ihrer Mitglieder in gemeinsamer Selbsthilfe zu fördern."
+    },
+    {
+      "term": "Genossenschaftsanteil",
+      "page": "genossenschaftsanteil.html",
+      "short": "Beteiligung eines Genossenschafters am Kapital einer Genossenschaft."
+    },
+    {
+      "term": "Gerichtlicher Nachlassvertrag",
+      "page": "gerichtlicher-nachlassvertrag.html",
+      "short": "Von einem Gericht genehmigte Vereinbarung zwischen Schuldner und Gläubigern zur Schuldensanierung."
+    },
+    {
+      "term": "Gesamtarbeitsvertrag",
+      "page": "gesamtarbeitsvertrag.html",
+      "short": "Vertrag zwischen Arbeitnehmerverbänden und Arbeitgeberverbänden über die Arbeitsbedingungen in einer bestimmten Branche."
+    },
+    {
+      "term": "Gesamteigentum",
+      "page": "gesamteigentum.html",
+      "short": "Gemeinschaftliches Eigentum, bei dem die Eigentümer zur einer Gemeinschaft verbunden sind und nur gemeinsam über die Sache verfügen können."
+    },
+    {
+      "term": "Gesamtnachfolge",
+      "page": "gesamtnachfolge.html",
+      "short": "Prinzip, wonach mit dem Tod alle Vermögenswerte und alle Schulden des Erblassers auf seine Erben übergehen."
+    },
+    {
+      "term": "Geschriebenes Recht",
+      "page": "geschriebenes-recht.html",
+      "short": "Recht, das in der Verfassung, in Gesetzen und in Verordnungen schriftlich festgehalten ist und vom Staat im dafür vorgesehenen Verfahren erlassen wurde."
+    },
+    {
+      "term": "Gesellschaft",
+      "page": "gesellschaft.html",
+      "short": "Zusammenschluss von zwei oder mehreren Personen zur Erreichung eines gemeinsamen Zwecks mit gemeinsamen Kräften oder Mitteln."
+    },
+    {
+      "term": "Gesellschaft mit beschränkter Haftung (GmbH)",
+      "page": "gesellschaft-mit-beschrankter-haftung-gmbh.html",
+      "short": "Rechtsform Personenbezogene Kapitalgesellschaft, an der ein oder mehrere Gesellschafter beteiligt sind und für deren Verbindlichkeiten ausschliesslich das Gesellschaftsvermögen haftet."
+    },
+    {
+      "term": "Gesellschafter",
+      "page": "gesellschafter.html",
+      "short": "Mitglied einer Gesellschaft."
+    },
+    {
+      "term": "Gesellschafterversammlung",
+      "page": "gesellschafterversammlung.html",
+      "short": "Zusammenkunft der Gesellschafter und oberstes Organ einer Gesellschaft mit beschränkter Haftung (GmbH)."
+    },
+    {
+      "term": "Gesetz",
+      "page": "gesetz.html",
+      "short": "Geschriebenes Recht der 2. Stufe; dient der näheren Ausführung der Verfassungsartikel."
+    },
+    {
+      "term": "Gewaltentrennung",
+      "page": "gewaltentrennung.html",
+      "short": "Aufteilung der staatlichen Macht."
+    },
+    {
+      "term": "Gewinnsteuer",
+      "page": "gewinnsteuer.html",
+      "short": "Steuer auf dem Reingewinn juristischer Personen."
+    },
+    {
+      "term": "Gewohnheitsrecht",
+      "page": "gewohnheitsrecht.html",
+      "short": "Ungeschriebenes Recht; es entspricht der allgemeinen Rechtsüberzeugung und wird seit längerer Zeit befolgt."
+    },
+    {
+      "term": "Gewöhnliche Kausalhaftung",
+      "page": "gewohnliche-kausalhaftung.html",
+      "short": "Haftung für eine Ordnungswidrigkeit oder Unregelmässigkeit ohne direktes Verschulden, z.B. die Haftung des Tierhalters."
+    },
+    {
+      "term": "Gewöhnliche Schuldurkunde",
+      "page": "gewohnliche-schuldurkunde.html",
+      "short": "Urkunde, bei der das darin genannte Recht auch auf eine andere Art als durch Vorlegung geltend gemacht werden kann."
+    },
+    {
+      "term": "Gewöhnliche Stellvertretung",
+      "page": "gewohnliche-stellvertretung.html",
+      "short": "Form der Stellvertretung, bei der die Voraussetzungen der kaufmännischen Stellvertretung nicht erfüllt sind."
+    },
+    {
+      "term": "Gläubiger",
+      "page": "glaubiger.html",
+      "short": "Partei, die ein Recht auf eine Leistung hat."
+    },
+    {
+      "term": "Gläubigerverzug",
+      "page": "glaubigerverzug.html",
+      "short": "Annahmeverzug; Vertragsverletzung."
+    },
+    {
+      "term": "Grobfahrlässig",
+      "page": "grobfahrlassig.html",
+      "short": "Die elementarsten Vorsichtsgebote missachtend."
+    },
+    {
+      "term": "Grundbuch",
+      "page": "grundbuch.html",
+      "short": "Staatliches Register über die Rechte an Grundstücken."
+    },
+    {
+      "term": "Grundeigentum",
+      "page": "grundeigentum.html",
+      "short": "Umfassendes (Herrschafts-)Recht an einer unbeweglichen Sache, also an einem Grundstück."
+    },
+    {
+      "term": "Grundlagenirrtum",
+      "page": "grundlagenirrtum.html",
+      "short": "Irrtum über eine notwendige Grundlage des Vertrags."
+    },
+    {
+      "term": "Grundlast",
+      "page": "grundlast.html",
+      "short": "Verpflichtung des jeweiligen Eigentümers eines Grundstücks zu einer Leistung, für die er ausschliesslich mit dem Grundstück haftet."
+    },
+    {
+      "term": "Grundpfand",
+      "page": "grundpfand.html",
+      "short": "Pfandrecht an einem Grundstück zur Sicherung der Vertragserfüllung."
+    },
+    {
+      "term": "Grundstück",
+      "page": "grundstuck.html",
+      "short": "Unbewegliche Sache Unbebautes Land oder Liegenschaft."
+    },
+    {
+      "term": "Handelsregister",
+      "page": "handelsregister.html",
+      "short": "Öffentliches Verzeichnis der Unternehmen in der Schweiz."
+    },
+    {
+      "term": "Handlungsbevollmächtigter",
+      "page": "handlungsbevollmachtigter.html",
+      "short": "Kaufmännischer Stellvertreter, der alle Rechtshandlungen vornehmen kann, die der Zweck des Unternehmens gewöhnlich mit sich bringt."
+    },
+    {
+      "term": "Handlungsfähigkeit",
+      "page": "handlungsfahigkeit.html",
+      "short": "Fähigkeit eines Rechtssubjekts, durch seine Handlungen Rechte und Pflichten zu begründen."
+    },
+    {
+      "term": "Handlungsvollmacht",
+      "page": "handlungsvollmacht.html",
+      "short": "Form der kaufmännischen Stellvertretung, bei welcher der Handlungsbevollmächtigte alle Rechtshandlungen vornehmen kann, die der Zweck des Unternehmens gewöhnlich mit sich bringt."
+    },
+    {
+      "term": "Herabsetzungsbegehren",
+      "page": "herabsetzungsbegehren.html",
+      "short": "Begründetes Schreiben des Mieters an den Vermieter oder an die Schlichtungsbehörde, das eine Reduktion des Mietzinses verlangt."
+    },
+    {
+      "term": "Hinkendes Inhaberpapier",
+      "page": "hinkendes-inhaberpapier.html",
+      "short": "Spezialform des Namenpapiers Der Schuldner behält sich darin das Recht vor, an jede Person zu leisten, die ihm das Namenpapier vorweist."
+    },
+    {
+      "term": "Holschuld",
+      "page": "holschuld.html",
+      "short": "Verbindlichkeit, die am Wohnsitz des Schuldners zu erfüllen ist oder dort, wo sich die Sache bei Vertragsabschluss befand."
+    },
+    {
+      "term": "Honorar",
+      "page": "honorar.html",
+      "short": "Vergütung für die Erbringung einer Dienstleistung oder die Besorgung eines Geschäfts beim Auftrag."
+    },
+    {
+      "term": "Horizontale Gewaltenteilung",
+      "page": "horizontale-gewaltenteilung.html",
+      "short": "Aufteilung der staatlichen Macht in die drei Gewalten Legislative, Exekutive und Judikative."
+    },
+    {
+      "term": "Hypothekardarlehen",
+      "page": "hypothekardarlehen.html",
+      "short": "Darlehen, das mit einem Grundpfand gesichert ist."
+    },
+    {
+      "term": "Immaterialgüterrecht",
+      "page": "immaterialguterrecht.html",
+      "short": "Das Recht an Gütern, die einen Nutzen stiften, aber keine körperliche Existenz aufweisen."
+    },
+    {
+      "term": "Immaterielles",
+      "page": "immaterielles.html",
+      "short": "Gut Geistiges, körperlich nicht vorhandenes Gut."
+    },
+    {
+      "term": "Indirekte Steuer",
+      "page": "indirekte-steuer.html",
+      "short": "Steuer, welche die wirtschaftliche Leistungsfähigkeit des Steuerpflichtigen nicht berücksichtigt."
+    },
+    {
+      "term": "Inhaberaktie Aktie, bei welcher der jeweilige Inhaber als Berechtigter anerkannt wird.",
+      "page": "inhaberaktie-aktie-bei-welcher-der-jeweilige-inhaber-als-berechtigter-anerkannt-wird.html",
+      "short": ""
+    },
+    {
+      "term": "Inhaberpapier",
+      "page": "inhaberpapier.html",
+      "short": "Wertpapier, bei dem der jeweilige Inhaber als Berechtigter anerkannt wird."
+    },
+    {
+      "term": "Initiative",
+      "page": "initiative.html",
+      "short": "Volksbegehren über eine Verfassungsänderung, kommt mittels Unterschriftensammlung zustande und wird durch eine Volksabstimmung entschieden."
+    },
+    {
+      "term": "Initiativrecht",
+      "page": "initiativrecht.html",
+      "short": "Politisches Recht der Staatsbürgerinnen und Staatsbürger, ein Volksbegehren (eine Initiative) einzureichen."
+    },
+    {
+      "term": "Judikative",
+      "page": "judikative.html",
+      "short": "Richterliche Behörde."
+    },
+    {
+      "term": "Juristische Person",
+      "page": "juristische-person.html",
+      "short": "Künstliche, durch das Recht geschaffene Person, z.B. Verein oder Aktiengesellschaft."
+    },
+    {
+      "term": "Kapitalgesellschaft",
+      "page": "kapitalgesellschaft.html",
+      "short": "Gesellschaft, bei der die finanzielle Beteiligung im Zentrum steht und für deren Verbindlichkeiten ausschliesslich das Gesellschaftsvermögen haftet."
+    },
+    {
+      "term": "Kapitalsteuer",
+      "page": "kapitalsteuer.html",
+      "short": "Steuer auf dem Eigenkapital juristischer Personen."
+    },
+    {
+      "term": "Kartell",
+      "page": "kartell.html",
+      "short": "Vereinbarung zwischen Unternehmen, sich gegenseitig nicht oder nur beschränkt zu konkurrenzieren."
+    },
+    {
+      "term": "Kaufmännische Stellvertretung",
+      "page": "kaufmannische-stellvertretung.html",
+      "short": "Spezielle Form der Stellvertretung im kaufmännischen Verkehr (Prokura und Handlungsvollmacht)."
+    },
+    {
+      "term": "Kaufmännischer Verkehr",
+      "page": "kaufmannischer-verkehr.html",
+      "short": "Kauf einer Ware, um sie weiterzuverkaufen."
+    },
+    {
+      "term": "Kaufpreisobligation",
+      "page": "kaufpreisobligation.html",
+      "short": "Die Schuld des Käufers, den Kaufpreis zu bezahlen, und die Forderung des Verkäufers, den Kaufpreis zu erhalten."
+    },
+    {
+      "term": "Kaufvertrag",
+      "page": "kaufvertrag.html",
+      "short": "Vertrag zur Übertragung einer Sache gegen Geld."
+    },
+    {
+      "term": "Kausalabgabe",
+      "page": "kausalabgabe.html",
+      "short": "Gebühr; Entgelt für eine staatliche Leistung, z.B. Passgebühr."
+    },
+    {
+      "term": "Kausalhaftung",
+      "page": "kausalhaftung.html",
+      "short": "Haftung für einen Schaden ohne direktes Verschulden."
+    },
+    {
+      "term": "Kausalzusammenhang",
+      "page": "kausalzusammenhang.html",
+      "short": "Ursachenzusammenhang zwischen einer Handlung und einem Schaden."
+    },
+    {
+      "term": "Kaution",
+      "page": "kaution.html",
+      "short": "Hinterlegung von Geld als Sicherheit zur Vertragserfüllung."
+    },
+    {
+      "term": "Kleiner Unterhalt Kleine Reinigungen und Ausbesserungen, die der Mieter selbst übernehmen muss.",
+      "page": "kleiner-unterhalt-kleine-reinigungen-und-ausbesserungen-die-der-mieter-selbst-ubernehmen-muss.html",
+      "short": ""
+    },
+    {
+      "term": "Kollektivgesellschaft",
+      "page": "kollektivgesellschaft.html",
+      "short": "Personengesellschaft, bei der zwei oder mehr natürliche Personen ein Unternehmen betreiben und für deren Verbindlichkeiten die Gesellschafter mit ihrem ganzen Vermögen haften."
+    },
+    {
+      "term": "Kollokationsplan",
+      "page": "kollokationsplan.html",
+      "short": "Eine Auflistung der Forderungen sämtlicher Gläubiger in einem Konkurs."
+    },
+    {
+      "term": "Kombinationsfusion",
+      "page": "kombinationsfusion.html",
+      "short": "Umstrukturierung, bei der die fusionierenden Gesellschaften sich zu einer neuen Gesellschaft zusammenschliessen und selbst untergehen."
+    },
+    {
+      "term": "Kommanditgesellschaft",
+      "page": "kommanditgesellschaft.html",
+      "short": "Personengesellschaft mit mindestens einem unbeschränkt haftenden Gesellschafter und mindestens einem beschränkt haftenden Gesellschafter."
+    },
+    {
+      "term": "Kommanditär",
+      "page": "kommanditar.html",
+      "short": "Der beschränkt haftende Gesellschafter einer Kommanditgesellschaft."
+    },
+    {
+      "term": "Komplementär",
+      "page": "komplementar.html",
+      "short": "Der unbeschränkt haftende Gesellschafter einer Kommanditgesellschaft."
+    },
+    {
+      "term": "Konkludent",
+      "page": "konkludent.html",
+      "short": "Schlüssig, stillschweigend."
+    },
+    {
+      "term": "Konkurrenzverbot",
+      "page": "konkurrenzverbot.html",
+      "short": "Verpflichtung des Arbeitgebers, nach Beendigung des Arbeitsverhältnisses keiner konkurrenzierenden Tätigkeit nachzugehen."
+    },
+    {
+      "term": "Konkurs",
+      "page": "konkurs.html",
+      "short": "Verfahren zur Deckung der Forderungen sämtlicher Gläubiger, indem die gesamten Vermögenswerte des Schuldners verwertet werden."
+    },
+    {
+      "term": "Konkursbegehren",
+      "page": "konkursbegehren.html",
+      "short": "Gesuch eines Gläubigers an das Gericht, den Konkurs eines Schuldners zu eröffnen."
+    },
+    {
+      "term": "Konkursdividende",
+      "page": "konkursdividende.html",
+      "short": "Anteil, den ein Gläubiger am Ende eines Konkurses ausbezahlt erhält."
+    },
+    {
+      "term": "Konkurseröffnung",
+      "page": "konkurseroffnung.html",
+      "short": "Entscheid des Gerichts, den Konkurs eines Schuldners zu eröffnen."
+    },
+    {
+      "term": "Konkursmasse Sämtliche pfändbare Vermögenswerte, die dem Schuldner im Zeitpunkt des Konkurses gehören.",
+      "page": "konkursmasse-samtliche-pfandbare-vermogenswerte-die-dem-schuldner-im-zeitpunkt-des-konkurses-gehoren.html",
+      "short": ""
+    },
+    {
+      "term": "Konkursverlustschein",
+      "page": "konkursverlustschein.html",
+      "short": "Ausweis über den Verlust eines Gläubigers in einem Konkurs."
+    },
+    {
+      "term": "Konstitutiv",
+      "page": "konstitutiv.html",
+      "short": "Recht erzeugend; erst dadurch tritt die Rechtswirkung ein."
+    },
+    {
+      "term": "Konsumkredit",
+      "page": "konsumkredit.html",
+      "short": "Darlehen eines Kreditinstituts an eine Privatperson für den persönlichen oder familiären Gebrauch."
+    },
+    {
+      "term": "Konventionalstrafe",
+      "page": "konventionalstrafe.html",
+      "short": "Strafzahlung für eine Vertragsverletzung."
+    },
+    {
+      "term": "Kraftloserklärung",
+      "page": "kraftloserklarung.html",
+      "short": "Entscheid eines Gerichts, ein abhanden gekommenes Wertpapier für ungültig zu erklären, sodass das Recht von der Urkunde gelöst wird."
+    },
+    {
+      "term": "Körperschaft",
+      "page": "korperschaft.html",
+      "short": "Gesellschaft mit eigener Rechtspersönlichkeit; juristische Person."
+    },
+    {
+      "term": "Kündigung",
+      "page": "kundigung.html",
+      "short": "Einseitige Erklärung zur Beendigung eines Vertragsverhältnisses."
+    },
+    {
+      "term": "Kündigungsfrist",
+      "page": "kundigungsfrist.html",
+      "short": "Frist bis zum Wirksamwerden einer ausgesprochenen Kündigung."
+    },
+    {
+      "term": "Kündigungstag",
+      "page": "kundigungstag.html",
+      "short": "Tag, an dem der Empfänger eine Kündigung spätestens in den Händen haben muss, damit das Vertragsverhältnis frist- und termingerecht gekündet werden kann."
+    },
+    {
+      "term": "Kündigungstermin",
+      "page": "kundigungstermin.html",
+      "short": "Zeitpunkt, auf den ein Vertragsverhältnis beendet werden kann."
+    },
+    {
+      "term": "Leasing",
+      "page": "leasing.html",
+      "short": "Überlassung einer Sache zum Gebrauch für eine bestimmte Zeit gegen Leasingraten."
+    },
+    {
+      "term": "Leasinggeber",
+      "page": "leasinggeber.html",
+      "short": "Vertragspartei, die dem Leasingnehmer eine Sache für eine bestimmte Zeit zum Gebrauch überlässt."
+    },
+    {
+      "term": "Leasingnehmer",
+      "page": "leasingnehmer.html",
+      "short": "Vertragspartei, die vom Leasinggeber eine Sache für eine bestimmte Zeit zum Gebrauch erhält und dafür Leasingraten bezahlt."
+    },
+    {
+      "term": "Leasingrate",
+      "page": "leasingrate.html",
+      "short": "Entgelt des Leasingnehmers für das Leasing."
+    },
+    {
+      "term": "Legalitätsprinzip",
+      "page": "legalitatsprinzip.html",
+      "short": "(Rechtsstaat) Grundsatz, wonach sich alle Behörden an das Recht halten müssen (Gesetzmässigkeitsprinzip)."
+    },
+    {
+      "term": "Legislative",
+      "page": "legislative.html",
+      "short": "Gesetzgebende Behörde; sie setzt das Recht, z.B. auf Bundesebene der National- und der Ständerat."
+    },
+    {
+      "term": "Leichtfahrlässig",
+      "page": "leichtfahrlassig.html",
+      "short": "Geringfügig von der gebotenen Sorgfalt abweichend."
+    },
+    {
+      "term": "Leihe",
+      "page": "leihe.html",
+      "short": "Unentgeltliche Überlassung einer Sache zum Gebrauch."
+    },
+    {
+      "term": "Lenkungszweck",
+      "page": "lenkungszweck.html",
+      "short": "Ziel (einer Steuer), ein Verhalten in eine bestimmte Richtung zu lenken, z.B. Einschränkung des Zigarettenkonsums."
+    },
+    {
+      "term": "Liberierung",
+      "page": "liberierung.html",
+      "short": "Einzahlung des vereinbarten Gesellschaftsanteils (durch den Gesellschafter)."
+    },
+    {
+      "term": "Lieferverzug",
+      "page": "lieferverzug.html",
+      "short": "Vertragsverletzung Der Verkäufer liefert die Ware zu spät."
+    },
+    {
+      "term": "Mahngeschäft",
+      "page": "mahngeschaft.html",
+      "short": "Geschäft, bei dem kein oder kein bestimmter Erfüllungstermin vereinbart wurde."
+    },
+    {
+      "term": "Mangel",
+      "page": "mangel.html",
+      "short": "Fehler, der den Wert der Sache oder ihre Tauglichkeit zum vorausgesetzten Gebrauch aufhebt oder erheblich mindert."
+    },
+    {
+      "term": "Marke",
+      "page": "marke.html",
+      "short": "Kennzeichen, um eine Ware oder Dienstleistung von anderen zu unterscheiden."
+    },
+    {
+      "term": "Marktbeherrschendes Unternehmen",
+      "page": "marktbeherrschendes-unternehmen.html",
+      "short": "Unternehmen, das so gross ist, dass es sich auf dem Markt unabhängig von anderen Unternehmen verhalten kann."
+    },
+    {
+      "term": "Mehrwertsteuer",
+      "page": "mehrwertsteuer.html",
+      "short": "Verbrauchssteuer auf die Lieferung von Gegenständen und die Erbringung von Dienstleistungen."
+    },
+    {
+      "term": "Mengenkartell",
+      "page": "mengenkartell.html",
+      "short": "Kartell, bei dem die beteiligten Unternehmen untereinander vereinbaren, welche Mengen eines Produkts sie produzieren."
+    },
+    {
+      "term": "Menschenrechte",
+      "page": "menschenrechte.html",
+      "short": "Fundamentale Rechte, die allen Menschen zustehen, unabhängig von ihrer Nationalität, Ethnie, ihrem Geschlecht, ihrer Sprache oder Religion."
+    },
+    {
+      "term": "Miete",
+      "page": "miete.html",
+      "short": "Überlassung einer Sache zum Gebrauch gegen einen Mietzins."
+    },
+    {
+      "term": "Mieter",
+      "page": "mieter.html",
+      "short": "Vertragspartei, die vom Vermieter eine Sache zum Gebrauch erhält und dafür einen Mietzins bezahlt."
+    },
+    {
+      "term": "Mietkaution",
+      "page": "mietkaution.html",
+      "short": "Hinterlegung von Geld durch den Mieter; dient als Sicherheit für die Forderungen des Vermieters."
+    },
+    {
+      "term": "Mietzins",
+      "page": "mietzins.html",
+      "short": "Entgelt des Mieters für die Miete."
+    },
+    {
+      "term": "Minderung",
+      "page": "minderung.html",
+      "short": "Preisnachlass wegen eines Mangels."
+    },
+    {
+      "term": "Miteigentum",
+      "page": "miteigentum.html",
+      "short": "Gemeinschaftliches Eigentum, bei dem jedem Miteigentümer ein bestimmter Bruchteil der Sache zusteht, über den er selbst verfügen kann."
+    },
+    {
+      "term": "Mitgliedschaftspapier",
+      "page": "mitgliedschaftspapier.html",
+      "short": "Wertpapier, durch das ein Berechtigter das Recht auf Mitwirkung erlangt (z.B. das Stimmrecht an der Generalversammlung einer Aktiengesellschaft)."
+    },
+    {
+      "term": "Moral",
+      "page": "moral.html",
+      "short": "Wertvorstellungen über das gute und gerechte Verhalten."
+    },
+    {
+      "term": "Motivirrtum",
+      "page": "motivirrtum.html",
+      "short": "Irrtum über den Beweggrund zum Vertragsabschluss."
+    },
+    {
+      "term": "Mängelrüge",
+      "page": "mangelruge.html",
+      "short": "Anzeige eines Mangels."
+    },
+    {
+      "term": "Nachbesserungsanspruch",
+      "page": "nachbesserungsanspruch.html",
+      "short": "Anspruch auf Reparatur infolge eines Mangels."
+    },
+    {
+      "term": "Nachfrist",
+      "page": "nachfrist.html",
+      "short": "Frist zur nachträglichen Erfüllung, wenn sich der Schuldner in Verzug befindet."
+    },
+    {
+      "term": "Nachlassvertrag",
+      "page": "nachlassvertrag.html",
+      "short": "Instrument zur Sanierung eines Schuldners, entweder gerichtlich oder aussergerichtlich."
+    },
+    {
+      "term": "Nachlassvertrag mit Vermögensabtretung",
+      "page": "nachlassvertrag-mit-vermogensabtretung.html",
+      "short": "Gerichtlicher Nachlassvertrag, mit dem ein Schuldner sein Vermögen (oder Teile davon) an die Gläubiger abtritt, die dieses dann liquidieren, um aus dem Erlös ihre Forderungen zu decken."
+    },
+    {
+      "term": "Nachschusspflicht",
+      "page": "nachschusspflicht.html",
+      "short": "Verpflichtung der Gesellschafter einer GmbH oder Genossenschaft, bei Bedarf zusätzliches Kapital zur Verfügung zu stellen."
+    },
+    {
+      "term": "Namenaktie",
+      "page": "namenaktie.html",
+      "short": "Aktie, die auf den Namen eines Aktionärs lauten."
+    },
+    {
+      "term": "Namenpapier",
+      "page": "namenpapier.html",
+      "short": "Wertpapier, das auf einen bestimmten Namen lautet und kein Ordrepapier ist."
+    },
+    {
+      "term": "Natürliche Person",
+      "page": "naturliche-person.html",
+      "short": "Ein Mensch."
+    },
+    {
+      "term": "Nennwert",
+      "page": "nennwert.html",
+      "short": "Betrag, auf den eine Aktie lautet."
+    },
+    {
+      "term": "Nettolohn",
+      "page": "nettolohn.html",
+      "short": "Vereinbarter Lohn nach Abzug der Sozialversicherungsbeiträge."
+    },
+    {
+      "term": "Nichterfüllung",
+      "page": "nichterfullung.html",
+      "short": "Vertragsverletzung Der Schuldner erbringt die Leistung nicht."
+    },
+    {
+      "term": "Nichtig",
+      "page": "nichtig.html",
+      "short": "Rechtlich unwirksam."
+    },
+    {
+      "term": "Normalarbeitsvertrag",
+      "page": "normalarbeitsvertrag.html",
+      "short": "Staatliche Verordnung über die Mindestarbeitsbedingungen für eine Branche, in der kein Gesamtarbeitsvertrag gilt."
+    },
+    {
+      "term": "Normenhierarchie",
+      "page": "normenhierarchie.html",
+      "short": "Einteilung des geschriebenen Rechts in drei Stufen 1. Stufe Verfassung, 2. Stufe Gesetze, 3. Stufe Verordnungen."
+    },
+    {
+      "term": "Nutzen und Gefahr",
+      "page": "nutzen-und-gefahr.html",
+      "short": "Mit dem Übergang von Nutzen und Gefahr kann der Käufer die Ware alleine nutzen."
+    },
+    {
+      "term": "Nutzniessung",
+      "page": "nutzniessung.html",
+      "short": "Beschränktes dingliches Recht, eine Sache zu besitzen, zu gebrauchen und zu nutzen."
+    },
+    {
+      "term": "Nutzungsrecht",
+      "page": "nutzungsrecht.html",
+      "short": "Möglichkeit für den Urheber, aus seinem Werk einen Ertrag zu generieren, z.B. Recht auf Vervielfältigung."
+    },
+    {
+      "term": "Obligation",
+      "page": "obligation.html",
+      "short": "Verpflichtung; Rechtsverhältnis zwischen zwei oder mehreren Personen, aus dem die eine Partei ein Recht auf eine Leistung hat und die andere zu dieser Leistung verpflichtet ist."
+    },
+    {
+      "term": "Obligatorisches Referendum",
+      "page": "obligatorisches-referendum.html",
+      "short": "Volksabstimmung, die zwingend durchgeführt werden muss (bei Verfassungsänderungen oder bei einem Beitritt zu bestimmten internationalen Organisationen)."
+    },
+    {
+      "term": "Ordentliche Revision",
+      "page": "ordentliche-revision.html",
+      "short": "Umfassende Prüfung der Jahresrechnung durch die Revisionsstelle."
+    },
+    {
+      "term": "Ordentlicher Nachlassvertrag",
+      "page": "ordentlicher-nachlassvertrag.html",
+      "short": "Gerichtlicher Nachlassvertrag, mit dem die Gläubiger auf einen Teil ihrer Forderungen verzichten, sodass der Schuldner seinen Betrieb weiterführen kann."
+    },
+    {
+      "term": "Organ",
+      "page": "organ.html",
+      "short": "Eine natürliche Person oder Personengruppe, die für eine juristische Person rechtlich handeln kann."
+    },
+    {
+      "term": "Pacht",
+      "page": "pacht.html",
+      "short": "Überlassung einer Sache zum Gebrauch und zur Nutzung gegen einen Pachtzins."
+    },
+    {
+      "term": "Pachtzins",
+      "page": "pachtzins.html",
+      "short": "Entgelt des Pächters für die Pacht."
+    },
+    {
+      "term": "Personalsicherheit",
+      "page": "personalsicherheit.html",
+      "short": "Zur Sicherung der Vertragserfüllung haftet eine Person mit ihrem Vermögen."
+    },
+    {
+      "term": "Personenbezogene Gesellschaft",
+      "page": "personenbezogene-gesellschaft.html",
+      "short": "Gesellschaft, bei der die persönliche Mitwirkung der Gesellschafter im Vordergrund steht."
+    },
+    {
+      "term": "Personengesellschaft",
+      "page": "personengesellschaft.html",
+      "short": "Gesellschaft ohne eigene Rechtspersönlichkeit, die Gesellschafter sind zusammen Träger von Rechten und Pflichten."
+    },
+    {
+      "term": "Personenrecht",
+      "page": "personenrecht.html",
+      "short": "Rechtsgebiet, das sich mit der Frage der Rechts- und Handlungsfähigkeit sowie dem Persönlichkeitsschutz befasst."
+    },
+    {
+      "term": "Personenschaden",
+      "page": "personenschaden.html",
+      "short": "Schaden, der durch Körperverletzung oder Tötung entsteht."
+    },
+    {
+      "term": "Pfand",
+      "page": "pfand.html",
+      "short": "Übergabe einer beweglichen Sache (Fahrnispfand) oder Errichtung eines Pfandrechts an einem Grundstück (Grundpfand) zur Sicherung einer Forderung."
+    },
+    {
+      "term": "Pfandausfallschein",
+      "page": "pfandausfallschein.html",
+      "short": "Ausweis über den Verlust eines Gläubigers bei einer Betreibung auf Pfandverwertung."
+    },
+    {
+      "term": "Pfandrecht",
+      "page": "pfandrecht.html",
+      "short": "Recht, eine Sache verwerten zu lassen und aus dem Erlös bezahlt zu werden, falls die entsprechend geschützte Forderung nicht bezahlt wird."
+    },
+    {
+      "term": "Pfänden",
+      "page": "pfanden.html",
+      "short": "Das Beschlagnahmen von Gegenständen, um diese zugunsten des Gläubigers zu verwerten."
+    },
+    {
+      "term": "Pfändungsverlustschein",
+      "page": "pfandungsverlustschein.html",
+      "short": "Ausweis über den Verlust eines Gläubigers bei einer Betreibung auf Pfändung."
+    },
+    {
+      "term": "Politische Rechte",
+      "page": "politische-rechte.html",
+      "short": "Rechte der volljährigen Staatsbürgerinnen und Staatsbürger zur demokratischen Mitbestimmung, z.B. Wahl- und Stimmrecht."
+    },
+    {
+      "term": "Privatkonkurs",
+      "page": "privatkonkurs.html",
+      "short": "Konkurs einer Privatperson auf ihren eigenen Antrag hin."
+    },
+    {
+      "term": "Privatrecht",
+      "page": "privatrecht.html",
+      "short": "Teil des Rechts, der die Rechtsbeziehungen der Bürger untereinander regelt."
+    },
+    {
+      "term": "Produktehaftpflicht",
+      "page": "produktehaftpflicht.html",
+      "short": "Haftung des Herstellers oder Importeurs für einen Schaden, den ein fehlerhaftes Produkt verursacht."
+    },
+    {
+      "term": "Progressive Steuer",
+      "page": "progressive-steuer.html",
+      "short": "Steuer, deren Steuersatz mit der Höhe der Berechnungsgrundlage ansteigt."
+    },
+    {
+      "term": "Prokura",
+      "page": "prokura.html",
+      "short": "Form der kaufmännischen Stellvertretung, bei welcher der Prokurist alle Rechtshandlungen vornehmen kann, die der Zweck des Unternehmens mit sich bringen kann."
+    },
+    {
+      "term": "Prokursis",
+      "page": "prokursis.html",
+      "short": "Kaufmännischer Stellvertreter, der alle Rechtshandlungen vornehmen kann, die der Zweck des Unternehmens mit sich bringen kann."
+    },
+    {
+      "term": "Proportionale Steuer",
+      "page": "proportionale-steuer.html",
+      "short": "Steuer mit einem festen Steuersatz."
+    },
+    {
+      "term": "Publizitätswirkung",
+      "page": "publizitatswirkung.html",
+      "short": "Rechtsfolge einer im Handelsregister eingetragenen Tatsache Diese gilt als bekannt und wirkt gegenüber jedermann."
+    },
+    {
+      "term": "Pächter",
+      "page": "pachter.html",
+      "short": "Vertragspartei, die vom Verpächter eine Sache zum Gebrauch und zur Nutzung erhält und dafür einen Pachtzins bezahlt."
+    },
+    {
+      "term": "Qualifizierte Schriftlichkeit",
+      "page": "qualifizierte-schriftlichkeit.html",
+      "short": "Schriftlich mit bestimmten Mindestangaben oder vollständig handschriftlich geschrieben und unterzeichnet."
+    },
+    {
+      "term": "Quellenrecht",
+      "page": "quellenrecht.html",
+      "short": "Beschränktes dingliches Recht, sich auf einem Grundstück Wasser anzueignen und abzuleiten."
+    },
+    {
+      "term": "Realsicherheit",
+      "page": "realsicherheit.html",
+      "short": "Sache oder Geld, z.B. Kaution oder Pfand, zur Sicherung der Vertragserfüllung."
+    },
+    {
+      "term": "Rechtsform",
+      "page": "rechtsform.html",
+      "short": "Rechtliche Organisationsform eines Unternehmens."
+    },
+    {
+      "term": "Rechtsfähigkeit",
+      "page": "rechtsfahigkeit.html",
+      "short": "Fähigkeit eines Rechtssubjekts, Rechte und Pflichten zu haben."
+    },
+    {
+      "term": "Rechtsobjekt",
+      "page": "rechtsobjekt.html",
+      "short": "Gegenstand, auf den sich ein Recht bezieht materielles Gut (Sache) oder immaterielles Gut."
+    },
+    {
+      "term": "Rechtsquelle",
+      "page": "rechtsquelle.html",
+      "short": "Rechtliche Grundlage, Ursprung einer Regel; infrage kommen das geschriebene Recht, das Gewohnheitsrecht und das Richterrecht."
+    },
+    {
+      "term": "Rechtsstaat",
+      "page": "rechtsstaat.html",
+      "short": "Staat, in dem das Legalitätsprinzip gilt, Gewaltentrennung herrscht und die Menschenrechte und die politischen Rechte gewährt werden."
+    },
+    {
+      "term": "Rechtssubjekt",
+      "page": "rechtssubjekt.html",
+      "short": "Träger von Rechten und Pflichten, also natürliche Personen oder juristische Personen."
+    },
+    {
+      "term": "Rechtsvorschlag",
+      "page": "rechtsvorschlag.html",
+      "short": "Einsprache des Schuldners gegen einen Zahlungsbefehl; bewirkt die vorläufige Einstellung der Betreibung."
+    },
+    {
+      "term": "Rechtswidrigkeit",
+      "page": "rechtswidrigkeit.html",
+      "short": "Verstoss gegen eine Rechtsnorm."
+    },
+    {
+      "term": "Rechtsöffnung",
+      "page": "rechtsoffnung.html",
+      "short": "Beseitigung des Rechtsvorschlags in einem gerichtlichen Verfahren."
+    },
+    {
+      "term": "Referendum",
+      "page": "referendum.html",
+      "short": "Volksabstimmung über ein vom Parlament beschlossenes Gesetz oder einen Parlamentsbeschluss."
+    },
+    {
+      "term": "Referendumsrecht",
+      "page": "referendumsrecht.html",
+      "short": "Das politische Recht der Staatsbürgerinnen und Staatsbürger, über ein vom Parlament beschlossenes Gesetz oder einen Parlamentsbeschluss abzustimmen."
+    },
+    {
+      "term": "Reglement",
+      "page": "reglement.html",
+      "short": "Gesetz einer Gemeinde."
+    },
+    {
+      "term": "Relatives Recht",
+      "page": "relatives-recht.html",
+      "short": "Recht, das nur gegenüber einer oder mehreren bestimmten Personen wirkt."
+    },
+    {
+      "term": "Retentionsrecht",
+      "page": "retentionsrecht.html",
+      "short": "Das Recht, eine bewegliche Sache bis zur Vertragserfüllung zurückzuhalten."
+    },
+    {
+      "term": "Retentionsverzeichnis",
+      "page": "retentionsverzeichnis.html",
+      "short": "Verzeichnis aller Gegenstände, die sich in einem gemieteten Geschäftsräum befinden und damit dem Zurückbehaltungsrecht des Vermieters unterliegen."
+    },
+    {
+      "term": "Revisionsstelle",
+      "page": "revisionsstelle.html",
+      "short": "Kontrollorgan einer Gesellschaft, prüft deren Jahresrechnung."
+    },
+    {
+      "term": "Richterrecht",
+      "page": "richterrecht.html",
+      "short": "Von einem Gericht geschaffene Regeln, um Lücken im geschriebenen Recht oder Gewohnheitsrecht zu schliessen."
+    },
+    {
+      "term": "Sachenrecht",
+      "page": "sachenrecht.html",
+      "short": "Rechtsgebiet, das sich mit den Rechten an Sachen bzw. an körperlichen Gegenständen befasst."
+    },
+    {
+      "term": "Sachenrechtliches",
+      "page": "sachenrechtliches.html",
+      "short": "Papier Wertpapier, durch das ein Berechtigter das Recht erlangt, ein dingliches Recht (z.B. Pfandrecht) zu fordern."
+    },
+    {
+      "term": "Sachgewährleistung",
+      "page": "sachgewahrleistung.html",
+      "short": "Haftung des Verkäufers, falls die gelieferten Sache Mängel aufweist."
+    },
+    {
+      "term": "Sachschaden",
+      "page": "sachschaden.html",
+      "short": "Schaden aus der Beschädigung oder Zerstörung einer Sache."
+    },
+    {
+      "term": "Schaden",
+      "page": "schaden.html",
+      "short": "Unfreiwillige Vermögensverminderung."
+    },
+    {
+      "term": "Schadenersatz",
+      "page": "schadenersatz.html",
+      "short": "Ausgleich einer unfreiwilligen Vermögensverminderung."
+    },
+    {
+      "term": "Schenkung",
+      "page": "schenkung.html",
+      "short": "Unentgeltliche Übertragung einer Sache."
+    },
+    {
+      "term": "Schenkung von Hand zu Hand",
+      "page": "schenkung-von-hand-zu-hand.html",
+      "short": "Eine Schenkung durch Übergabe der Sache vom Schenker an den Beschenkten."
+    },
+    {
+      "term": "Schenkungsversprechen",
+      "page": "schenkungsversprechen.html",
+      "short": "Schriftliche Erklärung, jemandem etwas zu schenken."
+    },
+    {
+      "term": "Schlechterfüllung",
+      "page": "schlechterfullung.html",
+      "short": "Vertragsverletzung."
+    },
+    {
+      "term": "Schuld",
+      "page": "schuld.html",
+      "short": "Pflicht zu einer Leistung."
+    },
+    {
+      "term": "Schuldfähigkeit",
+      "page": "schuldfahigkeit.html",
+      "short": "Zustand des Täters, wenn er im Zeitpunkt der Tat in der Lage war, das Unrecht seiner Tat einzusehen (fehlt z.B. bei geisteskranken Personen)."
+    },
+    {
+      "term": "Schuldner",
+      "page": "schuldner.html",
+      "short": "Partei, die zu einer Leistung verpflichtet ist."
+    },
+    {
+      "term": "Schuldnerverzug",
+      "page": "schuldnerverzug.html",
+      "short": "Vertragsverletzung."
+    },
+    {
+      "term": "Schuldurkunde",
+      "page": "schuldurkunde.html",
+      "short": "Schriftstück, das eine Obligation, also die Forderung eines Gläubigers gegenüber einem Schuldner, festhält."
+    },
+    {
+      "term": "Schuldverhältnis",
+      "page": "schuldverhaltnis.html",
+      "short": "Gesamtheit der Rechtsbeziehungen zwischen einem Gläubiger und einem Schuldner; kann mehrere Obligationen beinhalten."
+    },
+    {
+      "term": "Schuldübernahme",
+      "page": "schuldubernahme.html",
+      "short": "Wechsel des Schuldners, indem der neue Schuldner die Schuld des bisherigen Schuldners übernimmt."
+    },
+    {
+      "term": "Sitte",
+      "page": "sitte.html",
+      "short": "Zur Gewohnheit gewordene Verhaltensweisen."
+    },
+    {
+      "term": "Solidarische Haftung",
+      "page": "solidarische-haftung.html",
+      "short": "Mehrere Personen haften gemeinsam für eine Schuld, wobei jede Person für die ganze Schuld haftet."
+    },
+    {
+      "term": "Sozialversicherungsbeiträge",
+      "page": "sozialversicherungsbeitrage.html",
+      "short": "Abgaben an die staatlichen Sozialversicherungen, z."
+    },
+    {
+      "term": "Spaltung",
+      "page": "spaltung.html",
+      "short": "Übertragung des Vermögens einer Gesellschaft oder eines Teils davon auf eine oder mehrere Gesellschaften."
+    },
+    {
+      "term": "Spezialexekution",
+      "page": "spezialexekution.html",
+      "short": "Einzelvollstreckung; Verwertung einzelner Vermögenswerte, soweit dies zur Befriedigung der betriebenen Forderung nötig ist."
+    },
+    {
+      "term": "Spezieskauf",
+      "page": "spezieskauf.html",
+      "short": "Kauf einer individuell bestimmten Sache."
+    },
+    {
+      "term": "Speziesschuld",
+      "page": "speziesschuld.html",
+      "short": "Schuld, die eine individuell bestimmte Sache betrifft."
+    },
+    {
+      "term": "Stammaktie",
+      "page": "stammaktie.html",
+      "short": "Aktie, die im Gegensatz zu den Stimmrechtsaktien nicht privilegiert ist."
+    },
+    {
+      "term": "Stammanteil",
+      "page": "stammanteil.html",
+      "short": "Beteiligung eines Gesellschafters am Stammkapital einer Gesellschaft mit beschränkter Haftung (GmbH)."
+    },
+    {
+      "term": "Stammkapital",
+      "page": "stammkapital.html",
+      "short": "Grundkapital einer Gesellschaft mit beschränkter Haftung (GmbH)."
+    },
+    {
+      "term": "Stellvertretung",
+      "page": "stellvertretung.html",
+      "short": "Vornahme einer Rechtshandlung mit einer Vollmacht und im Namen eines Dritten mit der Folge, dass dadurch der Dritte berechtigt und verpflichtet wird."
+    },
+    {
+      "term": "Steuer",
+      "page": "steuer.html",
+      "short": "Geldleistung an den Staat ohne Anspruch auf eine direkte Gegenleistung."
+    },
+    {
+      "term": "Steueranlage",
+      "page": "steueranlage.html",
+      "short": "Steuerfuss; vom Kanton und den Gemeinden jährlich festgelegter Wert, der mit der einfachen Steuer multipliziert wird, um die geschuldete Steuer zu berechnen."
+    },
+    {
+      "term": "Steuerbetrug",
+      "page": "steuerbetrug.html",
+      "short": "Strafrechtliches Vergehen, wenn jemand mit der Steuererklärung gefälschte Unterlagen einreicht, um Steuern zu hinterziehen."
+    },
+    {
+      "term": "Steuerfuss",
+      "page": "steuerfuss.html",
+      "short": "Steueranlage; vom Kanton und den Gemeinden jährlich festgelegter Wert, der mit der einfachen Steuer multipliziert wird, um die geschuldete Steuer zu berechnen."
+    },
+    {
+      "term": "Steuerföderalismus",
+      "page": "steuerfoderalismus.html",
+      "short": "Prinzip, wonach Kantone und Gemeinde selbst über ihre Steuern bestimmen."
+    },
+    {
+      "term": "Steuerhinterziehung",
+      "page": "steuerhinterziehung.html",
+      "short": "Mit Busse geahndete Übertretung, wenn jemand unvollständige oder falsche Angaben in der Steuererklärung macht."
+    },
+    {
+      "term": "Steuerhoheit",
+      "page": "steuerhoheit.html",
+      "short": "Das Recht, eine Steuer zu erheben."
+    },
+    {
+      "term": "Steuerklärung",
+      "page": "steuerklarung.html",
+      "short": "Angaben eines Steuerpflichtigen (z."
+    },
+    {
+      "term": "Steuerobjekt",
+      "page": "steuerobjekt.html",
+      "short": "Gegenstand bzw. Sachverhalt, der besteuert wird."
+    },
+    {
+      "term": "Steuerprogression",
+      "page": "steuerprogression.html",
+      "short": "Das Ansteigen des Steuersatzes mit der Höhe der zu versteuernden Berechnungsgrundlage."
+    },
+    {
+      "term": "Steuersatz",
+      "page": "steuersatz.html",
+      "short": "Die Höhe einer Steuer im Verhältnis (in Prozent oder Promille) zur jeweiligen Berechnungsgrundlage."
+    },
+    {
+      "term": "Steuersubjekt",
+      "page": "steuersubjekt.html",
+      "short": "Der Schuldner einer Steuer."
+    },
+    {
+      "term": "Steuertarif",
+      "page": "steuertarif.html",
+      "short": "Tabelle, in der festgehalten wird, welcher Steuersatz für welchen Wert der Berechnungsgrundlage gilt."
+    },
+    {
+      "term": "Steuerträger",
+      "page": "steuertrager.html",
+      "short": "Person, die im Ergebnis durch eine Steuer wirtschaftlich belastet wird."
+    },
+    {
+      "term": "Steuerwettbewerb",
+      "page": "steuerwettbewerb.html",
+      "short": "Die Konkurrenz verschiedener Standorte aufgrund der unterschiedlichen Steuerbelastung."
+    },
+    {
+      "term": "Stiftung",
+      "page": "stiftung.html",
+      "short": "Rechtsform."
+    },
+    {
+      "term": "Stimmrecht",
+      "page": "stimmrecht.html",
+      "short": "Das politische Recht, an Volksabstimmungen (Initiativen und Referenden) teilzunehmen."
+    },
+    {
+      "term": "Stimmrechtsaktie",
+      "page": "stimmrechtsaktie.html",
+      "short": "Aktie, die im Vergleich zu den übrigen Aktien (Stammaktien) einen tieferen Nennwert bzw. eine höhere Stimmkraft hat."
+    },
+    {
+      "term": "Stimmrechtsbeschränkung",
+      "page": "stimmrechtsbeschrankung.html",
+      "short": "Begrenzung des Stimmrechts von Aktionären, die mehrere Aktien der Aktiengesellschaft besitzen, auf eine maximale Stimmenzahl."
+    },
+    {
+      "term": "Ständemehr",
+      "page": "standemehr.html",
+      "short": "Mehrheit der Kantone (Stände)."
+    },
+    {
+      "term": "Subsidiär",
+      "page": "subsidiar.html",
+      "short": "Unterstützend, in zweiter Linie."
+    },
+    {
+      "term": "Subsidiäre Haftung",
+      "page": "subsidiare-haftung.html",
+      "short": "Haftung in zweiter Linie bzw. Haftung, falls die primär haftende Person nicht mit Erfolg in Anspruch genommen werden kann."
+    },
+    {
+      "term": "Tauschvertrag",
+      "page": "tauschvertrag.html",
+      "short": "Vertrag zur Übertragung einer Sache im Austausch gegen eine andere Sache."
+    },
+    {
+      "term": "Umfassende Beistandschaft Form der Beistandschaft",
+      "page": "umfassende-beistandschaft-form-der-beistandschaft.html",
+      "short": "Die Handlungsfähigkeit der hilfsbedürftigen Person entfällt ganz, für die Person kann nur noch ihr Beistand handeln."
+    },
+    {
+      "term": "Umverteilungszweck",
+      "page": "umverteilungszweck.html",
+      "short": "Ziel (einer Steuer), Einkommen und Vermögen sozialer bzw. gleichmässiger zu verteilen."
+    },
+    {
+      "term": "Umwandlung",
+      "page": "umwandlung.html",
+      "short": "Änderung der Rechtsform einer Gesellschaft."
+    },
+    {
+      "term": "Ungerechtfertigte Bereicherung",
+      "page": "ungerechtfertigte-bereicherung.html",
+      "short": "Bereicherung ohne rechtlichen Grund."
+    },
+    {
+      "term": "Unmöglich werden einer Leistung",
+      "page": "unmoglich-werden-einer-leistung.html",
+      "short": "Vertragsverletzung."
+    },
+    {
+      "term": "Unternehmenszusammenschluss",
+      "page": "unternehmenszusammenschluss.html",
+      "short": "Fusion; Zusammenschluss von zwei oder mehr Unternehmen, die vorher unabhängig waren."
+    },
+    {
+      "term": "Urheber",
+      "page": "urheber.html",
+      "short": "Die natürliche Person, die ein Werk geschaffen hat."
+    },
+    {
+      "term": "Urheberpersönlichkeitsrecht",
+      "page": "urheberpersonlichkeitsrecht.html",
+      "short": "Persönliches, nicht abtretbares Recht des Urhebers, z.B. Recht auf Anerkennung der Urheberschaft."
+    },
+    {
+      "term": "Urteilsfähigkeit",
+      "page": "urteilsfahigkeit.html",
+      "short": "Fähigkeit, vernunftgemäss zu handeln."
+    },
+    {
+      "term": "Verbrauchssteuer",
+      "page": "verbrauchssteuer.html",
+      "short": "Steuer, die auf dem Verbrauch bzw. Konsum erhoben wird."
+    },
+    {
+      "term": "Verein",
+      "page": "verein.html",
+      "short": "Rechtsform."
+    },
+    {
+      "term": "Vereinsversammlung",
+      "page": "vereinsversammlung.html",
+      "short": "Zusammenkunft der Vereinsmitglieder und oberstes Organ eines Vereins."
+    },
+    {
+      "term": "Verfalltagsgeschäft",
+      "page": "verfalltagsgeschaft.html",
+      "short": "Geschäft, bei dem ein bestimmter Erfüllungstermin vereinbart wurde."
+    },
+    {
+      "term": "Verfassung",
+      "page": "verfassung.html",
+      "short": "Geschriebenes Recht der 1. Stufe; rechtliche Grundlage eines Staats."
+    },
+    {
+      "term": "Verfügung",
+      "page": "verfugung.html",
+      "short": "Anordnung einer Behörde im Einzelfall, gestützt auf das öffentliche Recht."
+    },
+    {
+      "term": "Verjährung",
+      "page": "verjahrung.html",
+      "short": "Frist, nach deren Ablauf eine Forderung rechtlich nicht mehr durchgesetzt werden kann."
+    },
+    {
+      "term": "Verleiher",
+      "page": "verleiher.html",
+      "short": "Vertragspartei, die dem Entleiher eine Sache unentgeltlich zum Gebrauch überlässt."
+    },
+    {
+      "term": "Vermieter",
+      "page": "vermieter.html",
+      "short": "Vertragspartei, die dem Mieter eine Sache zum Gebrauch überlässt."
+    },
+    {
+      "term": "Vermögensschaden",
+      "page": "vermogensschaden.html",
+      "short": "Anderer Schaden als Personen- und Sachschaden."
+    },
+    {
+      "term": "Vermögenssteuer",
+      "page": "vermogenssteuer.html",
+      "short": "Steuer auf dem Vermögen natürlicher Personen."
+    },
+    {
+      "term": "Vermögensübertragung",
+      "page": "vermogensubertragung.html",
+      "short": "Umstrukturierung, bei der das Geschäftsvermögen oder ein Teil davon auf ein anderes Unternehmen übertragen wird."
+    },
+    {
+      "term": "Verordnung",
+      "page": "verordnung.html",
+      "short": "Geschriebenes Recht der 3. Stufe; enthält Ausführungsbestimmungen zum jeweiligen Gesetz."
+    },
+    {
+      "term": "Verpächter",
+      "page": "verpachter.html",
+      "short": "Vertragspartei, die dem Pächter eine Sache zum Gebrauch und zur Nutzung überlässt."
+    },
+    {
+      "term": "Verrechnung",
+      "page": "verrechnung.html",
+      "short": "Ausgleich zweier gegenseitiger und gleichartiger Forderungen zwischen zwei Parteien; bewirkt den Untergang der Forderungen."
+    },
+    {
+      "term": "Verrechnungssteuer",
+      "page": "verrechnungssteuer.html",
+      "short": "Steuer auf den Erträgen von beweglichen Kapitalvermögen, insbesondere Bankzinsen und Dividenden."
+    },
+    {
+      "term": "Verschulden",
+      "page": "verschulden.html",
+      "short": "Vorwerfbarkeit eines Verhaltens (Absicht oder Fahrlässigkeit)."
+    },
+    {
+      "term": "Verschuldenshaftung",
+      "page": "verschuldenshaftung.html",
+      "short": "Haftung für einen Schaden bei einem vorwerfbaren Verhalten (Absicht oder Fahrlässigkeit)."
+    },
+    {
+      "term": "Versteckter Mangel",
+      "page": "versteckter-mangel.html",
+      "short": "Mangel, der bei einer üblichen Untersuchung nicht erkennbar war."
+    },
+    {
+      "term": "Vertikale Gewaltenteilung",
+      "page": "vertikale-gewaltenteilung.html",
+      "short": "Aufteilung der staatlichen Macht auf mehrere Ebenen bzw. Gliedstaaten (in der Schweiz auf Bund, Kantone und Gemeinden)."
+    },
+    {
+      "term": "Vertrag",
+      "page": "vertrag.html",
+      "short": "Wechselseitiges Versprechen zweier oder mehrerer Personen über eine oder mehrere Leistungen."
+    },
+    {
+      "term": "Vertrag auf Arbeitsleistung",
+      "page": "vertrag-auf-arbeitsleistung.html",
+      "short": "Vertrag, bei der sich eine Person verpflichtet, für eine andere Person eine Arbeit zu leisten (Arbeitsvertrag, Werkvertrag oder Auftrag)."
+    },
+    {
+      "term": "Vertrag auf Gebrauchsüberlassung",
+      "page": "vertrag-auf-gebrauchsuberlassung.html",
+      "short": "Vertrag zur Überlassung einer Sache zum Gebrauch."
+    },
+    {
+      "term": "Vertrauensinteresse",
+      "page": "vertrauensinteresse.html",
+      "short": "Negatives Interesse des Gläubigers; der Gläubiger möchte so gestellt werden, als wäre der Vertrag nie geschlossen worden."
+    },
+    {
+      "term": "Vertretungsrecht",
+      "page": "vertretungsrecht.html",
+      "short": "Befugnis, im Namen einer anderen Person Rechtshandlungen vorzunehmen."
+    },
+    {
+      "term": "Verwaltung",
+      "page": "verwaltung.html",
+      "short": "Organ der Genossenschaft, das die Geschäfte führt und die Genossenschaft gegen aussen vertritt."
+    },
+    {
+      "term": "Verwaltungsrat",
+      "page": "verwaltungsrat.html",
+      "short": "Organ der Aktiengesellschaft (AG), das die Geschäfte führt und die AG gegen aussen vertritt."
+    },
+    {
+      "term": "Verwaltungsverfahren",
+      "page": "verwaltungsverfahren.html",
+      "short": "Verfahren im öffentlichen Recht, ausgenommen das Strafrecht."
+    },
+    {
+      "term": "Verwertungsgesellschaft",
+      "page": "verwertungsgesellschaft.html",
+      "short": "Private Organisation, welche die Rechte einer Urhebergruppe kollektiv wahrnimmt."
+    },
+    {
+      "term": "Veräusserungsvertrag",
+      "page": "verausserungsvertrag.html",
+      "short": "Vertrag zur Übertragung einer Sache."
+    },
+    {
+      "term": "Vinkulierte Namenaktie",
+      "page": "vinkulierte-namenaktie.html",
+      "short": "Aktie, deren Übertragung eingeschränkt ist bzw. nur mit der Zustimmung der Aktiengesellschaft möglich ist."
+    },
+    {
+      "term": "Volksmehr",
+      "page": "volksmehr.html",
+      "short": "Mehrheit der gültigen Stimmen."
+    },
+    {
+      "term": "Volljährigkeit",
+      "page": "volljahrigkeit.html",
+      "short": "Alter, ab dem ein Mensch juristisch als erwachsen gilt; in der Schweiz wer das 18. Lebensjahr zurückgelegt hat."
+    },
+    {
+      "term": "Vollschulden",
+      "page": "vollschulden.html",
+      "short": "Schulden, die aus der Vertretung der ehelichen Gemeinschaft oder der Verwaltung des Gesamtguts stammen und für welche die Ehegatten mit ihrem Eigen- und Gesamtgut haften."
+    },
+    {
+      "term": "Vorsatz",
+      "page": "vorsatz.html",
+      "short": "Absicht; Ausführung einer Handlung mit Wissen und Willen."
+    },
+    {
+      "term": "Vorstand",
+      "page": "vorstand.html",
+      "short": "Organ des Vereins, das die Geschäfte führt und den Verein gegen aussen vertritt."
+    },
+    {
+      "term": "Vorsteuer",
+      "page": "vorsteuer.html",
+      "short": "Betrag, den ein Unternehmen von der Mehrwertsteuer abziehen kann, wenn es seinerseits diesen Steuerbetrag schon einem Lieferanten oder Dienstleister bezahlt hat."
+    },
+    {
+      "term": "Vorzugsaktie",
+      "page": "vorzugsaktie.html",
+      "short": "Aktie, die gegenüber anderen Aktienkategorien vermögensrechtlich privilegiert ist, z.B. wegen ihres höheren Dividendenanspruchs."
+    },
+    {
+      "term": "Völkerrecht",
+      "page": "volkerrecht.html",
+      "short": "Gesamtheit der auf internationaler Ebene geltenden Regeln über die Beziehungen der Staaten untereinander und zwischen Staaten und internationalen Organisationen."
+    },
+    {
+      "term": "Wahlrecht",
+      "page": "wahlrecht.html",
+      "short": "Das politische Recht, zu wählen und gewählt zu werden (aktives und passives Wahlrecht)."
+    },
+    {
+      "term": "Wandelung",
+      "page": "wandelung.html",
+      "short": "Rückabwicklung des Kaufvertrags bei einem Mangel; der Käufer gibt die Sache zurück und erhält den Kaufpreis erstattet."
+    },
+    {
+      "term": "Warenobligation",
+      "page": "warenobligation.html",
+      "short": "Die Schuld des Verkäufers, die Ware zu übergeben, und die Forderung des Käufers, die Ware zu erhalten."
+    },
+    {
+      "term": "Wegrecht",
+      "page": "wegrecht.html",
+      "short": "Beschränktes dingliches Recht, einen Weg auf einem benachbarten Grundstück zu begehen oder zu befahren."
+    },
+    {
+      "term": "Werk",
+      "page": "werk.html",
+      "short": "(Vertrag auf Arbeitsleistung) Leistung, die der Unternehmer dem Besteller bei einem Werkvertrag schuldet."
+    },
+    {
+      "term": "Werklohn",
+      "page": "werklohn.html",
+      "short": "Vergütung für die Herstellung eines Werks (Vertag auf Arbeitsleistung) beim Werkvertrag."
+    },
+    {
+      "term": "Werkunternehmer",
+      "page": "werkunternehmer.html",
+      "short": "Vertragspartei, die ein Werk (Vertrag auf Arbeitsleistung) herstellt."
+    },
+    {
+      "term": "Werkvertrag",
+      "page": "werkvertrag.html",
+      "short": "Vertrag zur Herstellung eines Werks (Vertrag auf Arbeitsleistung) gegen einen Werklohn."
+    },
+    {
+      "term": "Wertpapier",
+      "page": "wertpapier.html",
+      "short": "Urkunde, mit der ein Recht derart verknüpft ist, dass es ohne die Urkunde weder geltend gemacht noch auf andere übertragen werden kann."
+    },
+    {
+      "term": "Wesentlicher Irrtum",
+      "page": "wesentlicher-irrtum.html",
+      "short": "Falsche Vorstellung beim Vertragsabschluss, welche die Anfechtung des Vertrags erlaubt."
+    },
+    {
+      "term": "Wettbewerbsabrede",
+      "page": "wettbewerbsabrede.html",
+      "short": "Verhaltensweise, die eine Beschränkung des Wettbewerbs bezweckt oder bewirkt."
+    },
+    {
+      "term": "Wettbewerbskommission",
+      "page": "wettbewerbskommission.html",
+      "short": "Schweizerische Wettbewerbsbehörde, welche die Einhaltung des Kartellgesetzes überwacht."
+    },
+    {
+      "term": "Wettbewerbspolitik",
+      "page": "wettbewerbspolitik.html",
+      "short": "Staatliche Massnahmen zur Erhaltung und Förderung des wirtschaftlichen Wettbewerbs."
+    },
+    {
+      "term": "Wettbewerbsrecht",
+      "page": "wettbewerbsrecht.html",
+      "short": "Rechtsgebiet, das der Erhaltung und Förderung des wirtschaftlichen Wettbewerbs dient."
+    },
+    {
+      "term": "Widerrechtlich",
+      "page": "widerrechtlich.html",
+      "short": "Handlung, die ein absolutes Recht verletzt oder die gegen ein Gesetz verstösst, das dem Schutz des Verletzten dient."
+    },
+    {
+      "term": "Willensvollstrecker",
+      "page": "willensvollstrecker.html",
+      "short": "Person, die vom Erblasser beauftragt wurde, dessen letzten Willen zu vollstrecken."
+    },
+    {
+      "term": "Wohnrecht",
+      "page": "wohnrecht.html",
+      "short": "Beschränktes dingliches Recht, eine Liegenschaft oder einen Teil davon zu bewohnen."
+    },
+    {
+      "term": "Zahlungsbefehl",
+      "page": "zahlungsbefehl.html",
+      "short": "Aufforderung des Betreibungsamts, die betriebene Forderung innerhalb von 20 Tagen zu bezahlen."
+    },
+    {
+      "term": "Zahlungsverzug",
+      "page": "zahlungsverzug.html",
+      "short": "Vertragsverletzung."
+    },
+    {
+      "term": "Zedent",
+      "page": "zedent.html",
+      "short": "Bisheriger Gläubiger (bei der Abtretung einer Forderung)."
+    },
+    {
+      "term": "Zession",
+      "page": "zession.html",
+      "short": "Abtretung; Übertragung einer Forderung vom bisherigen Gläubiger an einen neuen Gläubiger."
+    },
+    {
+      "term": "Zessionar",
+      "page": "zessionar.html",
+      "short": "Neuer Gläubiger (bei der Abtretung einer Forderung)."
+    },
+    {
+      "term": "Zivilgesetzbuch",
+      "page": "zivilgesetzbuch.html",
+      "short": "Zentraler Erlass des schweizerischen Privatrechts; enthält das Personen-, Familien-, Erb- und Sachenrecht."
+    },
+    {
+      "term": "Zivilprozess",
+      "page": "zivilprozess.html",
+      "short": "Gerichtliches Verfahren um eine privatrechtliche Streitigkeit."
+    },
+    {
+      "term": "Zwangsvollstreckung",
+      "page": "zwangsvollstreckung.html",
+      "short": "Verfahren, bei dem eine privatrechtliche Forderung mit staatlicher Gewalt durchgesetzt wird, z.B. Schuldbetreibung oder Konkurs."
+    },
+    {
+      "term": "Zwingende Vorschrift",
+      "page": "zwingende-vorschrift.html",
+      "short": "Rechtliche Bestimmung, die nicht durch eine Vereinbarung abgeändert werden kann."
+    },
+    {
+      "term": "Öffentliche Beurkundung",
+      "page": "offentliche-beurkundung.html",
+      "short": "Unter Mitwirkung einer staatlich anerkannten Urkundsperson (Notar)."
+    },
+    {
+      "term": "Öffentliches Recht",
+      "page": "offentliches-recht.html",
+      "short": "Teil des Rechts, der die Rechtsbeziehungen der Bürger zum Staat regelt."
+    },
+    {
+      "term": "Übertretung Leichte Straftat, die mit Busse bedroht ist.",
+      "page": "ubertretung-leichte-straftat-die-mit-busse-bedroht-ist.html",
+      "short": ""
+    }
+  ]
+}

@@ -15,6 +15,10 @@
 !module_mindmaps/
 !module_mindmaps/**
 
+# Keep glossary keyword config and glossary pages
+!glossar/
+!glossar/**
+
 # Keep GitHub Actions workflows (Pages + offline ZIP automation)
 !.github/
 !.github/workflows/
