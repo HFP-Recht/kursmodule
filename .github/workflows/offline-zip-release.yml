@@ -1,0 +1,35 @@
+name: Publish Offline ZIP
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  package-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build offline package
+        run: |
+          mkdir -p dist/offline
+          cp portal.html dist/offline/index.html
+          cp -r laws dist/offline/laws
+          cd dist
+          zip -r hfp-offline.zip offline
+
+      - name: Create or update release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: offline-latest
+          name: Offline Package (auto-updated)
+          body: Automatically updated offline package from the latest main branch commit.
+          artifacts: dist/hfp-offline.zip
+          allowUpdates: true
+          replacesArtifacts: true
+          makeLatest: true

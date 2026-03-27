@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Keep this file
+!.gitignore
+
+# Keep the generated portal page
+!portal.html
+
+# Keep local law HTML files used by the portal
+!laws/
+!laws/**
+
+# Keep GitHub Actions workflows (Pages + offline ZIP automation)
+!.github/
+!.github/workflows/
+!.github/workflows/**
